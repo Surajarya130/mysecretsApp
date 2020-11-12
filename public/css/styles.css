@@ -1,0 +1,26 @@
+
+body {
+  background-color: #1abc9c;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.jumbotron{
+  background: aqua;
+}
+
+.footer{
+  position: absolute;
+  top: 90%;
+  left: 45%;
+}
